@@ -1,0 +1,4 @@
+node_modules/
+amblox-data.json
+amblox-data.json.tmp
+.env*.local
